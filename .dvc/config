@@ -1,4 +1,6 @@
 [core]
-    remote = local_storage
+    remote = gorigin
 ['remote "local_storage"']
     url = ../../storage
+['remote "gorigin"']
+    url = gdrive://1nRzHIUn8brb27l2v9Ftwhd_bPPFOcaj4
